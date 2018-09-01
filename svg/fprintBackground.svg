@@ -10,7 +10,7 @@
     stroke-width: 2px;
   }
 </style>
-<path class="demo__background-path" d="M46.1,214.3c0,0-4.7-15.6,4.1-33.3"/>
+<path class="demo__background-path" d="M46.1,214.3c0,0-4.7-15.6,4.1-33.3"/> 
       <path class="demo__background-path" d="M53.5,176.8c0,0,18.2-30.3,57.5-13.7"/>
       <path class="demo__background-path" d="M115.8,166.5c0,0,19.1,8.7,19.6,38.4"/>
       <path class="demo__background-path" d="M47.3,221c0,0,3.1-2.1,4.1-4.6s-5.7-20.2,7-36.7c8.5-11,22.2-19,37.9-15.3"/>
